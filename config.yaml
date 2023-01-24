@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en
 defaultContentLanguage: en
-title: 王雨婷
+title: WANGblog
 theme: KeepIt
 paginate: 12
 enableEmoji: yes
@@ -81,7 +81,7 @@ params:
     Linkedin: xxxx
     Twitter: xxxx
   socialShare: yes
-  subtitle: WWWYYYTTT123456
+  subtitle: 小王的生活
   utterances:
     owner: ''
     repo: ''
